@@ -62,7 +62,7 @@ gulp watch
 │   └── stylesheets
 │   │   ├── site.css.map
 │   │   └── site.css
-├── routes ****************
+├── routes
 │   └── index.js
 └── views
 │   └── layout
