@@ -1,13 +1,30 @@
 # Kickstart Gulp Express
 Project using node-express with gulp.js tasks
 
-Instalation
-1. npm install
-2. set DEBUG=project-name:* & npm start
-3. gulp
-4. gulp watch
+## wtat's included
+- server via [express](http://expressjs.com/)
+- templating [pug](https://pugjs.org/)
+- css pre-pocessing via [sass](http://sass-lang.com/)
+- build automation via [gulp](http://gulpjs.com/)
 
-Folders structure
+## getting started
+
+### install
+```
+npm install
+```
+
+### task server
+```
+set DEBUG=project-name:* & npm start
+```
+
+### task client
+```
+set DEBUG=project-name:* & npm start
+```
+
+### structure
 ```
 ├── bin
 │   └── www
