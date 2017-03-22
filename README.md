@@ -21,7 +21,8 @@ set DEBUG=project-name:* & npm start
 
 ### task client
 ```
-set DEBUG=project-name:* & npm start
+gulp
+gulp watch
 ```
 
 ### structure
