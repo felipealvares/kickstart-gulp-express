@@ -16,7 +16,7 @@ npm install
 
 ### task server
 ```
-set DEBUG=project-name:* & npm start
+set DEBUG=kickstart-gulp-express:* & npm start
 ```
 
 ### task client
