@@ -9,6 +9,9 @@ Project using node-express with gulp.js tasks
 
 ## getting started
 
+### first step
+rename folder and "name" from packege.json
+
 ### install
 ```
 npm install
