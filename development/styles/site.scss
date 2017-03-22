@@ -1,0 +1,14 @@
+/* ==========================================================================
+   File that receives all css files
+   ========================================================================== */
+
+/* Components Style */
+//@import "components/reset";
+
+/* Layout Style - Base */
+@import "layout/default";
+@import "layout/header";
+@import "layout/footer";
+
+/* Layout Style - Pages */
+@import "views/index";

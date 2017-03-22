@@ -1,0 +1,46 @@
+{
+	"destination": {
+		"js": "public/javascripts",
+		"css": "public/stylesheets",
+		"images": "public/images"
+	},
+	"source": {
+		"jsArrayPath": [
+			"development/scripts/plugins/jquery-3.2.0.min.js",
+			"development/scripts/plugins/**/*.js",
+			"development/scripts/**/*.js"
+		],
+		"js": "development/scripts",
+		"styles": "development/styles",
+		"images": "development/images",
+		"sprites": "development/images/sprite"
+	},
+	"autoprefixerBrowsers": [
+		"Android 2.3",
+		"Android >= 4",
+		"Chrome >= 20",
+		"Firefox >= 24",
+		"Explorer >= 8",
+		"iOS >= 6",
+		"Opera >= 12",
+		"Safari >= 6"
+	],
+	"jsHint": {
+		"asi"      : true,
+		"browser"  : true,
+		"eqeqeq"   : false,
+		"eqnull"   : true,
+		"es3"      : true,
+		"expr"     : true,
+		"jquery"   : true,
+		"latedef"  : true,
+		"laxbreak" : true,
+		"nonbsp"   : true,
+		"strict"   : true,
+		"undef"    : true,
+		"unused"   : true,
+		"globals" : {
+			"App": true
+		}
+	}
+}
