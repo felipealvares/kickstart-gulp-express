@@ -64,7 +64,7 @@ gulp watch
 │   │   └── site.css
 ├── routes
 │   └── index.js
-└── views
+├── views
 │   └── layout
 │   │   ├── default.pug
 │   │   ├── header.pug
