@@ -8,6 +8,7 @@ Instalation
 4. gulp watch
 
 Folders structure
+```
 ├── bin
 │   └── www
 ├── development
@@ -53,3 +54,4 @@ Folders structure
 ├── config.json
 ├── gulpfile.js
 └── package.json
+```
