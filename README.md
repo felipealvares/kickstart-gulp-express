@@ -45,9 +45,9 @@ Folders structure
 │   └── index.js
 └── views
 │   └── layout
-│       ├── default.pug
-│       ├── header.pug
-│       └── footer.pug
+│   │   ├── default.pug
+│   │   ├── header.pug
+│   │   └── footer.pug
 │   ├── index.pug
 │   └── error.pug
 ├── app.js
