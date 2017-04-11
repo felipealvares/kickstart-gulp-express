@@ -19,6 +19,10 @@ npm install
 
 ### Task Server
 ```
+npm start
+```
+or
+```
 set DEBUG=kickstart-gulp-express:* & npm start
 ```
 
